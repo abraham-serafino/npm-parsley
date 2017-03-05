@@ -1,0 +1,16 @@
+{
+  "name": "npm-parsley",
+  "version": "1.0.0",
+  "description": "NPM package that exports ParsleyJS for consumption by module systems",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/serafino/npm-parsley.git",
+    "type": "git"
+  },
+  "author": "Abraham Serafino",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "parsley": "^0.1.0"
+  }
+}
